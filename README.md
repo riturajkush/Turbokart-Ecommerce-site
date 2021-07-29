@@ -7,6 +7,7 @@ Funcationailities in Turbokart
 * <b>Cart feature</b>
 * <b>Contact Page for feedback</b>
 * <b>Delivery tracking page</b>
+* <b>Check out page</b>
 * <b>Product view page with their description and price</b>
 * <b>Paytm as Payment Integration</b>
 
