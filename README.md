@@ -1,5 +1,5 @@
 # Turbokart-Ecommerce-site
-An e-commerce site with all basic functionalities build using Djnago at backend, HTML, CSS, Js at Frontend and SQLite models
+An e-commerce site with all basic functionalities build using Django at backend, HTML, CSS, Js at Frontend and SQLite models
 
 Funcationailities in Turbokart
 
