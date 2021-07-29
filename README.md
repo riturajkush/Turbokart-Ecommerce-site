@@ -8,7 +8,7 @@ Funcationailities in Turbokart
 * <b>Contact Page for feedback</b>
 * <b>Delivery tracking page</b>
 * <b>Product view page with their description and price</b>
-* <b>Paytm as Payment Inegration</b>
+* <b>Paytm as Payment Integration</b>
 
 To run the project
 
@@ -17,7 +17,7 @@ To run the project
 3) Go to the location of manage.py file
 4) Fire up the command ```python manage.py runserver```
 
-To access the website type ```127.0.0.1:8000/shop```  on your brwoser.
+To access the website type ```127.0.0.1:8000/shop```  on your browser.
 
 You can check my other projects on:
 * [Github](https://github.com/riturajkush)
