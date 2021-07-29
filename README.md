@@ -20,6 +20,8 @@ To run the project
 
 To access the website type ```127.0.0.1:8000/shop```  on your browser.
 
+Note: To use payment option use your own merchant key in shop/views.py
+
 You can check my other projects on:
 * [Github](https://github.com/riturajkush)
 * [LinkedIn](https://www.linkedin.com/in/rajkush/)
